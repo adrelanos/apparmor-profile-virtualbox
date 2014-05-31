@@ -15,6 +15,6 @@ Standards-Version: 3.9.4
 Package: apparmor-profile-virtualbox
 Architecture: all
 Depends: ${misc:Depends}, apparmor
-Description: AppArmor profile for virtualbox.
+Description: AppArmor profile for VirtualBox
  An AppArmor profile to confine VirtualBox. This profile is
  developed by the Whonix team. VirtualBox is developed by Oracle.
