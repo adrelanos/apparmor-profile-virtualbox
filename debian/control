@@ -18,3 +18,5 @@ Depends: ${misc:Depends}, apparmor
 Description: AppArmor profile for VirtualBox
  An AppArmor profile to confine VirtualBox. This profile is
  developed by the Whonix team. VirtualBox is developed by Oracle.
+ .
+ For better security.
