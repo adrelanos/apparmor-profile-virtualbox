@@ -1,3 +1,15 @@
+commit d5b72fab6414be8649fa238ef24387bb77442b07
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jun 3 13:28:58 2015 +0000
+
+    fix - https://phabricator.whonix.org/T313
+
+commit f917e3c199275cc522e4b717326c8724f5baf06a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 30 17:56:10 2015 +0000
+
+    bumped changelog version
+
 commit 77d76dbb3a4b40605367d02a8182371727875344
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Apr 28 13:43:08 2015 +0000
