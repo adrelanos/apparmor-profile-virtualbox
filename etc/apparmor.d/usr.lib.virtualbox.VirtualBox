@@ -46,7 +46,8 @@
     /usr/lib/pulse-2.0/** mrix,
     ######################################
 
-    /usr/lib/virtualbox/** mrcux,
+    /usr/lib/virtualbox/ r,
+    /usr/lib/virtualbox/** mrux,
 
     /usr/share/virtualbox/nls/* r,
     /usr/share/icons/gnome/index.theme rwk, # ??
