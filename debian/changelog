@@ -1,3 +1,9 @@
+apparmor-profile-virtualbox (3:1.8-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Tue, 12 Mar 2019 11:22:42 +0000
+
 apparmor-profile-virtualbox (3:1.7-1) unstable; urgency=medium
 
   * New upstream version (local package).
