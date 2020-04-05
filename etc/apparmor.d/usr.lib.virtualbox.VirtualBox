@@ -1,4 +1,6 @@
-# Last Modified: Sat May 24 04:32:08 2014
+## Copyright (C) 2012 - 2020 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
 #include <tunables/global>
 
 /usr/lib/virtualbox/VirtualBox flags=(attach_disconnected) {
